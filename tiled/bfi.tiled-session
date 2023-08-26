@@ -1,0 +1,80 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "/home/mifom/Downloads/Space_Base.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "/home/mifom/Downloads/Backstage.tsx": {
+            "scaleInDock": 1
+        },
+        "/home/mifom/Downloads/Backstage_01.tsx": {
+            "scaleInDock": 1
+        },
+        "/home/mifom/Downloads/Backstage_02.tsx": {
+            "scaleInDock": 1
+        },
+        "/home/mifom/Downloads/Floor.tsx": {
+            "scaleInDock": 1
+        },
+        "/home/mifom/Downloads/Space_Base.tmx": {
+            "scale": 0.585891544117647,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 733.9242293513216,
+                "y": 698.9348184171308
+            }
+        },
+        "/home/mifom/Downloads/Wall.tsx": {
+            "scaleInDock": 1
+        },
+        "/home/mifom/Downloads/Wall_03.tsx": {
+            "scaleInDock": 1
+        },
+        "/home/mifom/Downloads/Wall_04.tsx": {
+            "scaleInDock": 1
+        },
+        "/home/mifom/Wall_01.tsx": {
+            "scaleInDock": 1
+        },
+        "/home/mifom/Window.tsx": {
+            "scaleInDock": 1
+        },
+        "/home/mifom/wall_02.tsx": {
+            "scaleInDock": 1
+        },
+        "tiles.tmx": {
+            "scale": 0.6396,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 481.5509693558475,
+                "y": 320.51282051282055
+            }
+        },
+        "tiles.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "last.exportedFilePath": "/home/mifom/dev/foss/better_find_it/tiled",
+    "last.imagePath": "/home/mifom/dev/foss/better_find_it/tiled",
+    "lastUsedTilesetExportFilter": "JSON tileset files (*.tsj *.json)",
+    "map.lastUsedExportFilter": "JSON map files (*.tmj *.json)",
+    "map.lastUsedFormat": "tmx",
+    "openFiles": [
+        "tiles.tmx",
+        "tiles.tsx",
+        "/home/mifom/Downloads/Space_Base.tmx"
+    ],
+    "project": "bfi.tiled-project",
+    "recentFiles": [
+        "tiles.tmx",
+        "tiles.tsx",
+        "/home/mifom/Downloads/Space_Base.tmx"
+    ],
+    "tileset.lastUsedFormat": "tsx"
+}
